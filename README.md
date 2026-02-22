@@ -40,4 +40,4 @@ Steps include:
 
 (Full AWS deployment steps available on request)
 
-Added CI/CD automation using GitHub Actions to automatically build and deploy the Dockerized FastAPI app.
+
